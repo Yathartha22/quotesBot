@@ -1,6 +1,7 @@
 # quotesBot
 
 quotesBot is bot that scrapes data from the famous quotes site [http://quotes.toscrape.com/](http://quotes.toscrape.com/).
+It contains a spider `quotesbot` that does the work.
 
 It will give thee result as in the form:
  
@@ -11,11 +12,11 @@ It will give thee result as in the form:
     'tags': ['life', 'navigation']
 }
 ```
-## How to use:
+## Running the spider
 
 - Clone the repo.
 
-- Run the following command `scrapy crawl quotesbot` or run `scrapy crawl quotesbot -o quotes.jsons` to get a json file containing the output.
+- Run the spider as `scrapy crawl quotesbot` or run `scrapy crawl quotesbot -o quotes.jsons` to get a json file containing the output.
 
 
 
