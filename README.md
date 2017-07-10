@@ -15,7 +15,7 @@ It will give thee result as in the form:
 
 - Clone the repo.
 
-- Run the following command `scrapy crawl quotesbot` or run `scrapy crawl quotesbot -o quotes.jsons` to get a json file containing the outpu.
+- Run the following command `scrapy crawl quotesbot` or run `scrapy crawl quotesbot -o quotes.jsons` to get a json file containing the output.
 
 
 
